@@ -1,0 +1,43 @@
+.item img {
+    height: auto; 
+    width: auto; 
+    max-width: 50px; 
+    max-height: 50px;
+}
+
+
+.container.title {
+	font-family: Monospace;
+
+	font-size: 40px;
+}
+
+.container{
+	text-align: center;
+	width: 100%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+
+.item {
+	min-width: 60px;
+	margin-left: auto;
+    margin-right: auto;
+  	display: inline-block;
+}
+
+.project img{
+	height: auto; 
+    width: auto; 
+	max-width: 300px;
+}
+
+.container.projects {
+	margin-top: 100px
+}
+
+.container.projects .project img {
+	padding:1px;
+	border:1px solid #021a40;
+}
