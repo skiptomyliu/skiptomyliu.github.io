@@ -5,10 +5,16 @@
     max-height: 50px;
 }
 
+.description {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 15px;
+}
 
 .container.title {
 	font-family: Monospace;
-	font-size: 40px;
+	font-weight: 400;
+	font-size:40px;
 }
 
 .container{
